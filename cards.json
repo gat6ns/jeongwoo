@@ -1,0 +1,450 @@
+[
+    {
+        "cardID": "",
+        "idolName": "Wonwoo",
+        "group": "Seventeen",
+        "theme": "Valentines",
+        "rarity": "normal",
+        "image": "https://cdn.discordapp.com/attachments/1001395578208530512/1001395810430373918/wonwooZ.png?ex=67078706&is=67063586&hm=1f558a2e070127b90b5e6fb53f6ca862d66bd67374d7d0268a8eb4bf4999eccb&"
+    },
+    {
+        "cardID": "",
+        "idolName": "New",
+        "group": "The Boyz",
+        "theme": "Valentines",
+        "rarity": "sphere",
+        "image": "https://cdn.discordapp.com/attachments/1074673309691674634/1075243021450354778/VALENTINES_2023_NEW.png?ex=6707e559&is=670693d9&hm=be2f049d05fb60bbbec925958cae4b42a52c52ceee3c8d79b54d63d996b86eb0&"
+    },
+    {
+        "cardID": "",
+        "idolName": "Moonbin",
+        "group": "Astro",
+        "theme": "Valentines",
+        "rarity": "rare",
+        "image": "https://cdn.discordapp.com/attachments/1074673309691674634/1075373587931869274/MOONBIN.png?ex=6707b632&is=670664b2&hm=33610c43023512992905413e614a00fdc1d78ef3ef89d392279502d81cc1b29e&"
+    },
+    {
+        "cardID": "",
+        "idolName": "Sunghoon",
+        "group": "Enhypen",
+        "theme": "School",
+        "rarity": "rare",
+        "image": "https://cdn.discordapp.com/attachments/1024622808912887858/1025696467375112215/sunghoonSE.png?ex=67099486&is=67084306&hm=654c3bd6eb4994a8f2aea6c05127e36bfb82801153f97acf5bc62bc07f1cac08&"
+    },
+    {
+        "cardID": "",
+        "idolName": "Seungmin",
+        "group": "Seungmin",
+        "theme": "School",
+        "rarity": "rare",
+        "image": "https://cdn.discordapp.com/attachments/1024622808912887858/1025723904276312094/seungminSE2.png?ex=670a56d3&is=67090553&hm=262e8d77555342fc088d0b9b96f81cea973787c81b12e124fcd3815ed2059593&"
+    },
+    {
+        "cardID": "",
+        "idolName": "Hanni",
+        "group": "New Jeans",
+        "theme": "OMG",
+        "rarity": "normal",
+        "image": "https://cdn.discordapp.com/attachments/1085506195399376936/1085906163066998794/Nhanni.png?ex=670a6eec&is=67091d6c&hm=e01c935a1428ab4ec0e88d870a189e3ebeb441b9a7d8e63440793663c67ec549&"
+    },
+    {
+        "cardID": "",
+        "idolName": "Hanni",
+        "group": "New Jeans",
+        "theme": "OMG",
+        "rarity": "sphere",
+        "image": "https://cdn.discordapp.com/attachments/1085506195399376936/1085506353172316161/Shanni.png?ex=670a4c12&is=6708fa92&hm=fb6250f30ff30ac91a2f2e79ac7436bdae632d53450a28b2dff17e23f8610a2c&"
+    },
+    {
+        "cardID": "",
+        "idolName": "Hanni",
+        "group": "New Jeans",
+        "theme": "OMG",
+        "rarity": "rare",
+        "image": "https://cdn.discordapp.com/attachments/1082601226723659837/1082601470786027530/HanniS.png?ex=670a46b0&is=6708f530&hm=f62937e3697da64cb627bf7f2def6206c3b2fee7d20807edf59813a6ad0c0b29&"
+    },
+    {
+        "cardID": "",
+        "idolName": "Haerin",
+        "group": "New Jeans",
+        "theme": "OMG",
+        "rarity": "normal",
+        "image": "https://cdn.discordapp.com/attachments/1085506195399376936/1085906126513655838/Nhaerin.png?ex=670a6ee3&is=67091d63&hm=f6fc06a45863775653fd00c36da43d4068754cc1a86f824658ab1734e0b74b05&"
+    },
+    {
+        "cardID": "",
+        "idolName": "Haerin",
+        "group": "New Jeans",
+        "theme": "OMG",
+        "rarity": "sphere",
+        "image": "https://cdn.discordapp.com/attachments/1085506195399376936/1085506332821553222/Shaerin.png?ex=670a4c0d&is=6708fa8d&hm=5b8792368f3e5bf552d6034d0cbb0317e9434ca6f55b1cad69a202f77554c948&"
+    },
+    {
+        "cardID": "",
+        "idolName": "Haerin",
+        "group": "New Jeans",
+        "theme": "OMG",
+        "rarity": "rare",
+        "image": "https://cdn.discordapp.com/attachments/1082601226723659837/1082601958407405648/HaerinS.png?ex=670a4724&is=6708f5a4&hm=36b2fa62a5e810a716af1b2d3f54117effd309ae5fb9ffb263852b20c2197712&"
+    },
+    {
+        "cardID": "",
+        "idolName": "Danielle",
+        "group": "New Jeans",
+        "theme": "OMG",
+        "rarity": "normal",
+        "image": "https://cdn.discordapp.com/attachments/1085506195399376936/1085906210018054235/Ndanielle.png?ex=670a6ef7&is=67091d77&hm=cb3a2a9b817e0aaceb4d54bb6505604a4416062fb8155555a64fdc056ce414e8&"
+    },
+    {
+        "cardID": "",
+        "idolName": "Danielle",
+        "group": "New Jeans",
+        "theme": "OMG",
+        "rarity": "sphere",
+        "image": "https://cdn.discordapp.com/attachments/1085506195399376936/1085506399133507654/Sdanielle.png?ex=670a4c1d&is=6708fa9d&hm=38f40cd3fc846ab58bbe99e24bf7d8ff71803b000f6fb7ff7ae234f57948f382&"
+    },
+    {
+        "cardID": "",
+        "idolName": "Danielle",
+        "group": "New Jeans",
+        "theme": "OMG",
+        "rarity": "rare",
+        "image": "https://cdn.discordapp.com/attachments/1082601226723659837/1082601448950468608/DanielleS.png?ex=670a46ab&is=6708f52b&hm=0e3adb8e2b997cda45d5203c6bfafc11c326bba11c6b551c494c4e0b41cc4b82&"
+    },
+    {
+        "cardID": "",
+        "idolName": "Hyein",
+        "group": "New Jeans",
+        "theme": "OMG",
+        "rarity": "normal",
+        "image": "https://cdn.discordapp.com/attachments/1085506195399376936/1085906302548590602/Nhyein.png?ex=670a6f0d&is=67091d8d&hm=88de3bd54842fe42a86c1139f3ec5a8cc82d1f0b42b7247c793da3a0c014edc3&"
+    },
+    {
+        "cardID": "",
+        "idolName": "Hyein",
+        "group": "New Jeans",
+        "theme": "OMG",
+        "rarity": "sphere",
+        "image": "https://cdn.discordapp.com/attachments/1085506195399376936/1085905422818476094/Shyein.png?ex=670a6e3b&is=67091cbb&hm=5b2465da84525a4ca65431b8814b32e02b186536488ffffe57f28c3b4a89da2a&"
+    },
+    {
+        "cardID": "",
+        "idolName": "Hyein",
+        "group": "New Jeans",
+        "theme": "OMG",
+        "rarity": "rare",
+        "image": "https://cdn.discordapp.com/attachments/1082601226723659837/1082601969383899156/HyeinS.png?ex=670a4727&is=6708f5a7&hm=8313bbaa84371529b5cbc841a2be6ffa4f088acb251e31f407e3aa67106952f4&"
+    },
+    {
+        "cardID": "",
+        "idolName": "Minji",
+        "group": "New Jeans",
+        "theme": "OMG",
+        "rarity": "normal",
+        "image": "https://cdn.discordapp.com/attachments/1085506195399376936/1085906203974045726/Mminji.png?ex=670a6ef6&is=67091d76&hm=3fb9bf22645b891e2d04833887c72a242d52bcb9622a805c7135a70e4460e3b0&"
+    },
+    {
+        "cardID": "",
+        "idolName": "Minji",
+        "group": "New Jeans",
+        "theme": "OMG",
+        "rarity": "sphere",
+        "image": "https://cdn.discordapp.com/attachments/1085506195399376936/1085506372621312020/Sminji.png?ex=670a4c16&is=6708fa96&hm=0a34ac42a85295df7dfadd7f9f4c04adb4cea65c239aacf5d13459870c02bb4f&"
+    },
+    {
+        "cardID": "",
+        "idolName": "Minji",
+        "group": "New Jeans",
+        "theme": "OMG",
+        "rarity": "rare",
+        "image": "https://cdn.discordapp.com/attachments/1082601226723659837/1082601979479601212/MinjiS.png?ex=670a4729&is=6708f5a9&hm=29eb859a329dd1d12b64640e0f906bdb7560d8eee1f9050c7aded571d77c0eb9&"
+    },
+    {
+        "cardID": "",
+        "idolName": "Chaewon",
+        "group": "LE SSERAFIM",
+        "theme": "FEARLESS",
+        "rarity": "normal",
+        "image": "https://cdn.discordapp.com/attachments/1002218941759901737/1002220147211243590/chaewonN.png?ex=6709ddff&is=67088c7f&hm=1d7c3cf694e50adce7354567bccb71071769055ff73572b53fa87812fcb3016e&"
+    },
+    {
+        "cardID": "",
+        "idolName": "Chaewon",
+        "group": "LE SSERAFIM",
+        "theme": "FEARLESS",
+        "rarity": "sphere",
+        "image": "https://cdn.discordapp.com/attachments/1002218941759901737/1002220170409951402/chaewonS.png?ex=6709de04&is=67088c84&hm=74ac9c9a025062234161600c16fadc9fa58ffc807fcea8e9b239606d2c40a412&"
+    },
+    {
+        "cardID": "",
+        "idolName": "Chaewon",
+        "group": "LE SSERAFIM",
+        "theme": "FEARLESS",
+        "rarity": "rare",
+        "image": "https://cdn.discordapp.com/attachments/1112960554152243240/1112969350744391760/r_chaewon4.png?ex=670a02fb&is=6708b17b&hm=26290dda19607f49db99339edde85cbfe75b11ef5d12dba4b5e7b7f874de0bd7&"
+    },
+    {
+        "cardID": "",
+        "idolName": "Kazuha",
+        "group": "LE SSERAFIM",
+        "theme": "FEARLESS",
+        "rarity": "normal",
+        "image": "https://cdn.discordapp.com/attachments/1002218941759901737/1002220235799146546/kazuhaN.png?ex=6709de14&is=67088c94&hm=e19ce12df05819699c041b580fc05f869bc28c5409411f955116d16090b94073&"
+    },
+    {
+        "cardID": "",
+        "idolName": "Kazuha",
+        "group": "LE SSERAFIM",
+        "theme": "FEARLESS",
+        "rarity": "sphere",
+        "image": "https://cdn.discordapp.com/attachments/1002218941759901737/1002220254098895028/kazuhaS.png?ex=6709de18&is=67088c98&hm=c199a3301c292bb9da05501e2e7c858de2442f5d11a0dffc998802e4854ff9a1&"
+    },
+    {
+        "cardID": "",
+        "idolName": "Kazuha",
+        "group": "LE SSERAFIM",
+        "theme": "FEARLESS",
+        "rarity": "rare",
+        "image": "https://cdn.discordapp.com/attachments/1112960554152243240/1112969438434701333/r_kazuha4_1.png?ex=670a0310&is=6708b190&hm=eb1a338bd8e581c363857b16caf54440890adceacdba441dcfdc8709415fb9e0&"
+    },
+    {
+        "cardID": "",
+        "idolName": "Sakura",
+        "group": "LE SSERAFIM",
+        "theme": "FEARLESS",
+        "rarity": "normal",
+        "image": "https://cdn.discordapp.com/attachments/1002218941759901737/1002220308121526313/sakuraN.png?ex=6709de25&is=67088ca5&hm=ae89b2b73ec958e14597c487a2ce0875bbcaad55194bdb599fca79cb3944df28&"
+    },
+    {
+        "cardID": "",
+        "idolName": "Sakura",
+        "group": "LE SSERAFIM",
+        "theme": "FEARLESS",
+        "rarity": "sphere",
+        "image": "https://cdn.discordapp.com/attachments/1002218941759901737/1002220319865589851/sakuraS.png?ex=6709de28&is=67088ca8&hm=d74bb14031568a76b29163bb016342af7fbebe00edaf048a94ec1db5db720d1e&"
+    },
+    {
+        "cardID": "",
+        "idolName": "Sakura",
+        "group": "LE SSERAFIM",
+        "theme": "FEARLESS",
+        "rarity": "rare",
+        "image": "https://cdn.discordapp.com/attachments/1112960554152243240/1112969384722452500/r_sakura.png?ex=670a0303&is=6708b183&hm=22414f5352f03704f856ea740cd66c47c9b2b857e7f71b3a52dc2a6e3b6f0ebb&"
+    },
+    {
+        "cardID": "",
+        "idolName": "Yunjin",
+        "group": "LE SSERAFIM",
+        "theme": "FEARLESS",
+        "rarity": "normal",
+        "image": "https://cdn.discordapp.com/attachments/1002218941759901737/1002220379835732038/yunjinN.png?ex=6709de36&is=67088cb6&hm=bff1cbf7cd969ef0c88fe26241f80e6f08d484f47749d84d83f05a41d30ba11d&"
+    },
+    {
+        "cardID": "",
+        "idolName": "Yunjin",
+        "group": "LE SSERAFIM",
+        "theme": "FEARLESS",
+        "rarity": "sphere",
+        "image": "https://cdn.discordapp.com/attachments/1002218941759901737/1002220401067307148/yunjinS.png?ex=6709de3b&is=67088cbb&hm=1ef1c5e7fcfeb6db15ea5553366e3c629b82a12772d47ef43581b396ec52b2a4&"
+    },
+    {
+        "cardID": "",
+        "idolName": "Yunjin",
+        "group": "LE SSERAFIM",
+        "theme": "FEARLESS",
+        "rarity": "rare",
+        "image": "https://cdn.discordapp.com/attachments/1112960554152243240/1112969283052511274/r_yunjin4_1.png?ex=670a02eb&is=6708b16b&hm=b44213c8d4d022813e6284391014324a4699e61696628780f1c58e6249c90402&"
+    },
+    {
+        "cardID": "",
+        "idolName": "Eunchae",
+        "group": "LE SSERAFIM",
+        "theme": "FEARLESS",
+        "rarity": "normal",
+        "image": "https://cdn.discordapp.com/attachments/1002218941759901737/1002220192375505006/eunchaeN.png?ex=6709de0a&is=67088c8a&hm=a505a2501687da9b49ba8ffd9d4221811d1a1f2bc01f6cd678f67b3568c92cf8&"
+    },
+    {
+        "cardID": "",
+        "idolName": "Eunchae",
+        "group": "LE SSERAFIM",
+        "theme": "FEARLESS",
+        "rarity": "sphere",
+        "image": "https://cdn.discordapp.com/attachments/1002218941759901737/1002220224218660895/eunchaeS.png?ex=6709de11&is=67088c91&hm=badb00dd8f9d74185999024687b5bf3eff4e3fd55d6cb3f43e0b45165b1de422&"
+    },
+    {
+        "cardID": "",
+        "idolName": "Eunchae",
+        "group": "LE SSERAFIM",
+        "theme": "FEARLESS",
+        "rarity": "rare",
+        "image": "https://cdn.discordapp.com/attachments/1112960554152243240/1112969321598165062/r_eunchae4.png?ex=670a02f4&is=6708b174&hm=8d157d223bf752caea0e0c99f861577a6949f4abd4d648957c53ada904d2c9ac&"
+    },
+    {
+        "cardID": "",
+        "idolName": "Sunghoon",
+        "group": "ENHYPEN",
+        "theme": "Tamed-dashed",
+        "rarity": "normal",
+        "image": "https://cdn.discordapp.com/attachments/1088393633679552524/1088393868292149248/SunghoonN.png?ex=670a4147&is=6708efc7&hm=3b47fe84734745c84df2abf524e6d8e9b0abbd7e4ef198bf22333ee4285f0841&"
+    },
+    {
+        "cardID": "",
+        "idolName": "Sunghoon",
+        "group": "ENHYPEN",
+        "theme": "Tamed-dashed",
+        "rarity": "sphere",
+        "image": "https://cdn.discordapp.com/attachments/1088393633679552524/1088393883664273469/SunghoonS.png?ex=670a414b&is=6708efcb&hm=eb9b99ac8727c0b46970b8655a75e157544e46beef1019ebedb95a140944df8a&"
+    },
+    {
+        "cardID": "",
+        "idolName": "Sunghoon",
+        "group": "ENHYPEN",
+        "theme": "Tamed-dashed",
+        "rarity": "rare",
+        "image": "https://cdn.discordapp.com/attachments/1001375650621427782/1001375883505975316/sunghoonR.png?ex=670a1777&is=6708c5f7&hm=608b62220361fd352eff4f557ac0d762bb1fd1678c05348c1472cf5317e3afac&"
+    },
+    {
+        "cardID": "",
+        "idolName": "Heeseung",
+        "group": "ENHYPEN",
+        "theme": "Tamed-dashed",
+        "rarity": "normal",
+        "image": "https://cdn.discordapp.com/attachments/1088393633679552524/1088393761035399199/HeeseungN.png?ex=670a412e&is=6708efae&hm=6350ca025949f8ce39217de43ac33696b77ccc3e13c07ccc2203bc9ba2db7c95&"
+    },
+    {
+        "cardID": "",
+        "idolName": "Heeseung",
+        "group": "ENHYPEN",
+        "theme": "Tamed-dashed",
+        "rarity": "sphere",
+        "image": "https://cdn.discordapp.com/attachments/1088393633679552524/1088393774671081492/HeeseungS.png?ex=670a4131&is=6708efb1&hm=1af12e6205f8dabb0659bb6fb4b973ed72126bdf8b5b58f31c3f084522a36a9d&"
+    },
+    {
+        "cardID": "",
+        "idolName": "Heeseung",
+        "group": "ENHYPEN",
+        "theme": "Tamed-dashed",
+        "rarity": "rare",
+        "image": "https://cdn.discordapp.com/attachments/1001375650621427782/1001375728891338772/heeseungR.png?ex=670a1752&is=6708c5d2&hm=7b6f9830185c46bd12e2c044d4c920b04e37b9a3014b7327e1b64e3f98dd9ac8&"
+    },
+    {
+        "cardID": "",
+        "idolName": "Jake",
+        "group": "ENHYPEN",
+        "theme": "Tamed-dashed",
+        "rarity": "normal",
+        "image": "https://cdn.discordapp.com/attachments/1088393633679552524/1088393779721031750/JakeN.png?ex=670a4132&is=6708efb2&hm=21fe955df35ad3831e668d8374b4090e7c7b9fc22b24dbe46026c96d6df42435&"
+    },
+    {
+        "cardID": "",
+        "idolName": "Jake",
+        "group": "ENHYPEN",
+        "theme": "Tamed-dashed",
+        "rarity": "sphere",
+        "image": "https://cdn.discordapp.com/attachments/1088393633679552524/1088393792312332328/JakeS.png?ex=670a4135&is=6708efb5&hm=6e42638c1fe87b88e768d5032cf54efc7b1e36409297ad64ab8d94c86b998fb9&"
+    },
+    {
+        "cardID": "",
+        "idolName": "Jake",
+        "group": "ENHYPEN",
+        "theme": "Tamed-dashed",
+        "rarity": "rare",
+        "image": "https://cdn.discordapp.com/attachments/1001375650621427782/1001375779835355247/jakeR.png?ex=670a175e&is=6708c5de&hm=2eb19bc35cd635f183e65d7cfe26180f33d5836e1ba0ef87c11828bf44f6bb62&"
+    },
+    {
+        "cardID": "",
+        "idolName": "Sunoo",
+        "group": "ENHYPEN",
+        "theme": "Tamed-dashed",
+        "rarity": "normal",
+        "image": "https://cdn.discordapp.com/attachments/1088393633679552524/1088393888978448494/SunooN.png?ex=670a414c&is=6708efcc&hm=99826d1b86a50916d0c079e0fe82ade6ca40a8d4803c7dc1ac0b0eae610d76a8&"
+    },
+    {
+        "cardID": "",
+        "idolName": "Sunoo",
+        "group": "ENHYPEN",
+        "theme": "Tamed-dashed",
+        "rarity": "sphere",
+        "image": "https://cdn.discordapp.com/attachments/1088393633679552524/1088393907454353478/SunooS.png?ex=670a4150&is=6708efd0&hm=affcb060c5d0bb6bd418da546dc7187d86d1614ff98ebc7b063def46878fdfa1&"
+    },
+    {
+        "cardID": "",
+        "idolName": "Sunoo",
+        "group": "ENHYPEN",
+        "theme": "Tamed-dashed",
+        "rarity": "rare",
+        "image": "https://cdn.discordapp.com/attachments/1001375650621427782/1001375901918973964/sunooR.png?ex=670a177b&is=6708c5fb&hm=1ca1190438b29ade8e7e73ae37a028effba242667dfdc5973fc173b4083bded9&"
+    },
+    {
+        "cardID": "",
+        "idolName": "Jungwon",
+        "group": "ENHYPEN",
+        "theme": "Tamed-dashed",
+        "rarity": "normal",
+        "image": "https://cdn.discordapp.com/attachments/1088393633679552524/1088393828899237928/JungwonN.png?ex=670a413e&is=6708efbe&hm=7aaf820df53d894a5ce66ae0c76ce648102999bbd5eda73d183a92a311e4bed6&"
+    },
+    {
+        "cardID": "",
+        "idolName": "Jungwon",
+        "group": "ENHYPEN",
+        "theme": "Tamed-dashed",
+        "rarity": "sphere",
+        "image": "https://cdn.discordapp.com/attachments/1088393633679552524/1088393842954354688/JungwonS.png?ex=670a4141&is=6708efc1&hm=aff04dd90d0afe1e849b3b0c8364279f6e7f26d4c1d431aa0fd7532034850d1c&"
+    },
+    {
+        "cardID": "",
+        "idolName": "Jungwon",
+        "group": "ENHYPEN",
+        "theme": "Tamed-dashed",
+        "rarity": "rare",
+        "image": "https://cdn.discordapp.com/attachments/1001375650621427782/1001375841248366673/jungwonR.png?ex=670a176d&is=6708c5ed&hm=4acf4344ce61f33eb77e33a68d455e389163890ee850f61bb39da6a688445383&"
+    },
+    {
+        "cardID": "",
+        "idolName": "Jay",
+        "group": "ENHYPEN",
+        "theme": "Tamed-dashed",
+        "rarity": "normal",
+        "image": "https://cdn.discordapp.com/attachments/1088393633679552524/1088393801288138853/JayN.png?ex=670a4137&is=6708efb7&hm=0f42e824ed05377f2574736adb1423c31ad1b49e43b5136b0a8283f2c3a88e93&"
+    },
+    {
+        "cardID": "",
+        "idolName": "Jay",
+        "group": "ENHYPEN",
+        "theme": "Tamed-dashed",
+        "rarity": "sphere",
+        "image": "https://cdn.discordapp.com/attachments/1088393633679552524/1088393816865787914/JayS.png?ex=670a413b&is=6708efbb&hm=1c21b0bf83447d5c8fdfe752464142e5524743330c4167f010e0817646d1e74a&"
+    },
+    {
+        "cardID": "",
+        "idolName": "Jay",
+        "group": "ENHYPEN",
+        "theme": "Tamed-dashed",
+        "rarity": "rare",
+        "image": "https://cdn.discordapp.com/attachments/1001375650621427782/1001375795090046976/jayR.png?ex=670a1762&is=6708c5e2&hm=30ffce5713787f859a793f5fe373ed8f3a22c9e0249de84f9f3905ab2358a80d&"
+    },
+    {
+        "cardID": "",
+        "idolName": "Ni-Ki",
+        "group": "ENHYPEN",
+        "theme": "Tamed-dashed",
+        "rarity": "normal",
+        "image": "https://cdn.discordapp.com/attachments/1088393633679552524/1088393852257312779/Ni-KiN.png?ex=670a4143&is=6708efc3&hm=27fa5a017e3ada5daf34583b9df28850ae75136251bc47c792ccd89db04e6bb3&"
+    },
+    {
+        "cardID": "",
+        "idolName": "Ni-Ki",
+        "group": "ENHYPEN",
+        "theme": "Tamed-dashed",
+        "rarity": "sphere",
+        "image": "https://cdn.discordapp.com/attachments/1088393633679552524/1088393861530910781/Ni-KiS.png?ex=670a4145&is=6708efc5&hm=4139af65976a368c62aa6999669e618686364f5fa86fb5d101f4801a5e2179a8&"
+    },
+    {
+        "cardID": "",
+        "idolName": "Ni-Ki",
+        "group": "ENHYPEN",
+        "theme": "Tamed-dashed",
+        "rarity": "rare",
+        "image": "https://cdn.discordapp.com/attachments/1001375650621427782/1001375862811271278/nikiR.png?ex=670a1772&is=6708c5f2&hm=3554ef2acbbfdf821388985bcbe69fd8410a847330ec8327d9abf19f64adbd02&"
+    }
+]
